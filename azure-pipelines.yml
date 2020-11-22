@@ -1,4 +1,4 @@
-name: my-bookshop-mta
+name: my-bookshop-devops
 resources:
   containers:
   - container: mbt
